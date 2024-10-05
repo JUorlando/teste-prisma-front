@@ -8,9 +8,10 @@
     Tecnologias Utilizadas
     Instalação e Configuração
     Como Rodar a Aplicação
-    Estrutura do Projeto
     Funcionalidades Implementadas
     Organização do Código
+    Contato
+    Licença
 
 **Sobre o Projeto**
 
